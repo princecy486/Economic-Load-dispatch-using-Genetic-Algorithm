@@ -20,3 +20,8 @@ min_i ≤ Pi ≥ max_i
 
 ΣPi = D
 
+# Plot
+
+![image](https://user-images.githubusercontent.com/58733201/74538857-0efc6500-4f63-11ea-8024-dbc2a5f4aa0c.png)
+
+Plot may be changed everytime as most of the things in Genetic Algorithms are assigned randomly.
