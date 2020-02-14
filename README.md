@@ -16,7 +16,7 @@ Ci = Cost Function for ith Generator
 
 Constraints
 
-Pi_min ≤ Pi ≥ Pi_max
+min_i ≤ Pi ≥ max_i
 
 ΣPi = D
 
