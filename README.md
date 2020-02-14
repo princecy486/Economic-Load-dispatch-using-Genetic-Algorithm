@@ -14,7 +14,7 @@ D = total demand (in MW),
 Ci = Cost Function for ith Generator
 
 
-Constraints
+# Constraints
 
 min_i ≤ Pi ≥ max_i
 
