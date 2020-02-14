@@ -9,8 +9,8 @@ Total Cost of Poduction (C)=  Σ PiCi For Electric Demand of (D)
 
 where,
 
-Pi = real power output of Generator i (in MW)
-D = total demand (in MW)
+Pi = real power output of Generator i (in MW),
+D = total demand (in MW),
 Ci = Cost Function for ith Generator
 
 
